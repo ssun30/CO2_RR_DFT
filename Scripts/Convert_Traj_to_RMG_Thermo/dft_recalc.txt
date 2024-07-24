@@ -1,0 +1,21 @@
+
+ ch3x
+
+
+
+species(name = "ch3x",
+	atoms = " H:3 C:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.07911369E+01, 9.80155806E-04,
+ 		 -1.86026746E-06, 1.60953577E-09, -5.24969371E-13,
+ 		 2.34813552E+03, -3.03964577E+01]), 
+		NASA( [1000.0, 2000.0], [1.09950295E+01, -1.54247194E-05,
+ 		 2.98552560E-08, -1.71002909E-11, 3.23193818E-15,
+ 		 2.31301108E+03, -3.13442167E+01]), 
+		 ),
+    longDesc = u"""Calculated by x at x University using statistical mechanics (file: compute_NASA_for_Pt-adsorbates.ipynb). 
+                   Based on DFT calculations by x at x.
+
+            The two lowest frequencies, 47.8 and 47.8 cm-1, where replaced by the 2D gas model.""",
+	)
