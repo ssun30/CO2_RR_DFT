@@ -1,6 +1,0 @@
-name = ch3x
-heat_of_formation_0K = [35.757928180978205, 'kJ/mol']
-composition = {'H': 3, 'C': 1, 'N': 0, 'O': 0, 'Ag': 1}
-sites = 1
-adsorbate_mass = [15.03452, 'amu']
-frequencies = [np.float64(23.1), np.float64(47.8), np.float64(174.6), np.float64(370.2), np.float64(612.3), np.float64(612.6), np.float64(1036.1), np.float64(1396.7), np.float64(1399.2), np.float64(2990.8), np.float64(3100.6), np.float64(3103.6), 'cm-1']

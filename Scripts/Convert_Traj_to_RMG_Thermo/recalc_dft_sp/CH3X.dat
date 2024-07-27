@@ -1,0 +1,6 @@
+name = CH3X
+heat_of_formation_0K = [35.82247791707977, 'kJ/mol']
+composition = {'H': 3, 'C': 1, 'N': 0, 'O': 0, 'Ag': 1}
+sites = 1
+adsorbate_mass = [15.03452, 'amu']
+frequencies = [np.float64(23.05), np.float64(47.84), np.float64(174.64), np.float64(370.15), np.float64(612.3), np.float64(612.57), np.float64(1036.12), np.float64(1396.65), np.float64(1399.16), np.float64(2990.83), np.float64(3100.59), np.float64(3103.57), 'cm-1']

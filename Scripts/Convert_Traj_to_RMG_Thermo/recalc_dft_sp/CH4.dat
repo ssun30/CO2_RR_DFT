@@ -1,0 +1,6 @@
+name = CH4
+heat_of_formation_0K = [-73.35965218000773, 'kJ/mol']
+composition = {'H': 4, 'C': 1, 'N': 0, 'O': 0, 'Ag': 0}
+sites = 1
+adsorbate_mass = [16.04236, 'amu']
+frequencies = [np.float64(12.0), np.float64(12.0), np.float64(12.0), np.float64(28.97), np.float64(88.56), np.float64(99.27), np.float64(1284.45), np.float64(1287.26), np.float64(1290.11), np.float64(1511.23), np.float64(1511.87), np.float64(2970.12), np.float64(3085.4), np.float64(3087.23), np.float64(3090.67), 'cm-1']
