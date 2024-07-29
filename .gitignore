@@ -1,2 +1,3 @@
 __pycache__/
 .ipynb_checkpoints/
+Scripts/Convert_Traj_to_RMG_Thermo/Pt_thermodata_adsorbates.py
