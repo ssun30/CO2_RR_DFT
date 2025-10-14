@@ -1,6 +1,0 @@
-name = CX
-heat_of_formation_0K = [412.6296915198343, 'kJ/mol']
-composition = {'H': 0, 'C': 1, 'N': 0, 'O': 0, 'Ag': 1}
-sites = 1
-adsorbate_mass = [12.011, 'amu']
-frequencies = [np.float64(396.23), np.float64(397.2), np.float64(402.95), 'cm-1']

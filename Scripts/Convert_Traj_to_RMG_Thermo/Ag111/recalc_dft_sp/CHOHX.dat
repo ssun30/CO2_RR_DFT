@@ -1,0 +1,6 @@
+name = CHOHX
+heat_of_formation_0K = [-14.747805031302695, 'kJ/mol']
+composition = {'H': 2, 'C': 1, 'N': 0, 'O': 1, 'Ag': 1}
+sites = 1
+adsorbate_mass = [30.02568, 'amu']
+frequencies = [np.float64(45.95), np.float64(75.75), np.float64(180.9), np.float64(206.37), np.float64(316.59), np.float64(335.5), np.float64(715.08), np.float64(1057.21), np.float64(1177.74), np.float64(1349.19), np.float64(2934.0), np.float64(3617.01), 'cm-1']

@@ -1,6 +1,0 @@
-name = CH2X
-heat_of_formation_0K = [172.79722343837577, 'kJ/mol']
-composition = {'H': 2, 'C': 1, 'N': 0, 'O': 0, 'Ag': 1}
-sites = 1
-adsorbate_mass = [14.026679999999999, 'amu']
-frequencies = [np.float64(12.0), np.float64(267.66), np.float64(314.98), np.float64(393.85), np.float64(435.38), np.float64(582.63), np.float64(1293.17), np.float64(2956.95), np.float64(3011.74), 'cm-1']

@@ -1,6 +1,0 @@
-name = CHX
-heat_of_formation_0K = [266.78454828001395, 'kJ/mol']
-composition = {'H': 1, 'C': 1, 'N': 0, 'O': 0, 'Ag': 1}
-sites = 1
-adsorbate_mass = [13.018839999999999, 'amu']
-frequencies = [np.float64(355.22), np.float64(367.53), np.float64(438.05), np.float64(561.61), np.float64(571.68), np.float64(3030.33), 'cm-1']

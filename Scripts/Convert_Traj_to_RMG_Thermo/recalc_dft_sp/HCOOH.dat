@@ -1,6 +1,0 @@
-name = HCOOH
-heat_of_formation_0K = [-400.0606574926524, 'kJ/mol']
-composition = {'H': 2, 'C': 1, 'N': 0, 'O': 2, 'Ag': 0}
-sites = 1
-adsorbate_mass = [46.024680000000004, 'amu']
-frequencies = [np.float64(12.0), np.float64(12.0), np.float64(12.0), np.float64(26.28), np.float64(58.81), np.float64(79.55), np.float64(595.24), np.float64(675.03), np.float64(1003.76), np.float64(1073.37), np.float64(1249.4), np.float64(1347.42), np.float64(1758.13), np.float64(2964.0), np.float64(3604.86), 'cm-1']

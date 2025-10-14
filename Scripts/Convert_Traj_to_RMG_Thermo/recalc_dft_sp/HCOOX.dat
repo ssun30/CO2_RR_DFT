@@ -1,6 +1,0 @@
-name = HCOOX
-heat_of_formation_0K = [-433.25920139043444, 'kJ/mol']
-composition = {'H': 1, 'C': 1, 'N': 0, 'O': 2, 'Ag': 1}
-sites = 1
-adsorbate_mass = [45.01684, 'amu']
-frequencies = [np.float64(12.0), np.float64(57.5), np.float64(75.13), np.float64(237.01), np.float64(242.61), np.float64(261.35), np.float64(728.16), np.float64(979.59), np.float64(1300.84), np.float64(1307.27), np.float64(1538.2), np.float64(2888.2), 'cm-1']

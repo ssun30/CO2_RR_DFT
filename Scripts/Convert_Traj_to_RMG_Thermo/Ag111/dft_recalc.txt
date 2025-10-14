@@ -1,0 +1,183 @@
+
+
+species(name = "CHX",
+	atoms = " H:1 C:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [2.66342243E-01, 2.55005593E-02,
+ 		 -4.67302907E-05, 3.94631134E-08, -1.26478670E-11,
+ 		 3.12277542E+04, -4.07584264E+00]), 
+		NASA( [1000.0, 2000.0], [5.83835547E+00, -5.50143917E-04,
+ 		 1.04877997E-06, -5.97825593E-10, 1.12691258E-13,
+ 		 3.02178588E+04, -3.02412718E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "COX",
+	atoms = " C:1 O:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [4.76251327E+00, 1.11269978E-03,
+ 		 -2.10966611E-06, 1.82404356E-09, -5.94635137E-13,
+ 		 -1.45610462E+04, -1.23594921E+01]), 
+		NASA( [1000.0, 2000.0], [4.99431896E+00, -1.76936326E-05,
+ 		 3.42262824E-08, -1.96003384E-11, 3.70408721E-15,
+ 		 -1.46010429E+04, -1.34373387E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "HCOOH",
+	atoms = " H:2 C:1 O:2",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.39828152E+01, 8.07094773E-05,
+ 		 -1.53259344E-07, 1.32648986E-10, -4.32758868E-14,
+ 		 -5.04135699E+04, -2.19105715E+01]), 
+		NASA( [1000.0, 2000.0], [1.39995921E+01, -1.26354032E-06,
+ 		 2.44635089E-09, -1.40132815E-12, 2.64862147E-16,
+ 		 -5.04164578E+04, -2.19885437E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "COHX",
+	atoms = " H:1 C:1 O:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [7.90698765E+00, 5.10752439E-03,
+ 		 -9.66734244E-06, 8.34878241E-09, -2.71941775E-12,
+ 		 7.45281979E+03, -3.19152917E+01]), 
+		NASA( [1000.0, 2000.0], [8.97362495E+00, -8.26142943E-05,
+ 		 1.59656769E-07, -9.14041331E-11, 1.72709588E-14,
+ 		 7.26829432E+03, -3.68774988E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "CHOHX",
+	atoms = " H:2 C:1 O:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.04790225E+01, 2.44168743E-03,
+ 		 -4.63031562E-06, 4.00396281E-09, -1.30541023E-12,
+ 		 -3.87200194E+03, -3.28294770E+01]), 
+		NASA( [1000.0, 2000.0], [1.09875496E+01, -3.87497326E-05,
+ 		 7.49655069E-08, -4.29319322E-11, 8.11345985E-15,
+ 		 -3.95971854E+03, -3.51938771E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "COOHX",
+	atoms = " H:1 C:1 O:2 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.09867810E+01, 6.20842133E-05,
+ 		 -1.17891803E-07, 1.02037681E-10, -3.32891347E-14,
+ 		 -4.44114442E+04, -1.64053971E+01]), 
+		NASA( [1000.0, 2000.0], [1.09996863E+01, -9.71979115E-07,
+ 		 1.88183405E-09, -1.07795624E-12, 2.03742017E-16,
+ 		 -4.44136656E+04, -1.64653759E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "HCOOX",
+	atoms = " H:1 C:1 O:2 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.06983745E+01, 1.41493133E-03,
+ 		 -2.68478436E-06, 2.32253402E-09, -7.57431101E-13,
+ 		 -5.41367261E+04, -3.07077828E+01]), 
+		NASA( [1000.0, 2000.0], [1.09928138E+01, -2.23234180E-05,
+ 		 4.32007960E-08, -2.47430431E-11, 4.67629090E-15,
+ 		 -5.41874686E+04, -3.20765361E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "CX",
+	atoms = " C:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [-2.08109795E-01, 1.41255843E-02,
+ 		 -2.57114636E-05, 2.16103094E-08, -6.90214919E-12,
+ 		 4.94191139E+04, -5.91413039E-01]), 
+		NASA( [1000.0, 2000.0], [2.90679495E+00, -3.21226726E-04,
+ 		 6.11116124E-07, -3.48106063E-10, 6.55928418E-14,
+ 		 4.88494769E+04, -1.52453553E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "CH3X",
+	atoms = " H:3 C:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.07907888E+01, 9.81788117E-04,
+ 		 -1.86336377E-06, 1.61221374E-09, -5.25842614E-13,
+ 		 2.35568713E+03, -3.04031728E+01]), 
+		NASA( [1000.0, 2000.0], [1.09950211E+01, -1.54504782E-05,
+ 		 2.99051637E-08, -1.71288833E-11, 3.23734262E-15,
+ 		 2.32050412E+03, -3.13525114E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "CHOX",
+	atoms = " H:1 C:1 O:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [7.78973681E+00, 9.86354049E-04,
+ 		 -1.87157965E-06, 1.61905637E-09, -5.28011849E-13,
+ 		 -9.86174615E+03, -2.13183986E+01]), 
+		NASA( [1000.0, 2000.0], [7.99499070E+00, -1.55613972E-05,
+ 		 3.01146711E-08, -1.72480167E-11, 3.25977367E-15,
+ 		 -9.89711865E+03, -2.22725571E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "CH4",
+	atoms = " H:4 C:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.39828152E+01, 8.07094773E-05,
+ 		 -1.53259344E-07, 1.32648986E-10, -4.32758868E-14,
+ 		 -1.10949704E+04, -2.29645165E+01]), 
+		NASA( [1000.0, 2000.0], [1.39995921E+01, -1.26354032E-06,
+ 		 2.44635089E-09, -1.40132815E-12, 2.64862147E-16,
+ 		 -1.10978583E+04, -2.30424887E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "CH2X",
+	atoms = " H:2 C:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [3.85100003E+00, 2.35194683E-02,
+ 		 -4.38661963E-05, 3.75015562E-08, -1.21265551E-11,
+ 		 1.90769562E+04, -2.00140040E+01]), 
+		NASA( [1000.0, 2000.0], [8.86633631E+00, -4.37192952E-04,
+ 		 8.38897191E-07, -4.79205188E-10, 9.04376865E-14,
+ 		 1.81900445E+04, -4.34485995E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)
+
+species(name = "CH2OHX",
+	atoms = " H:3 C:1 O:1 Ag:1",
+	size = 1,
+	thermo = (
+		NASA( [300.0, 1000.0], [1.36992407E+01, 1.41127697E-03,
+ 		 -2.67834690E-06, 2.31725865E-09, -7.55779555E-13,
+ 		 -1.56219329E+04, -3.95967286E+01]), 
+		NASA( [1000.0, 2000.0], [1.39928408E+01, -2.22232177E-05,
+ 		 4.30120710E-08, -2.46358334E-11, 4.65611636E-15,
+ 		 -1.56725160E+04, -4.09615025E+01]), 
+		 ),
+    longDesc = u"""Calculated by Su Sun at Northeastern University using Statistical Mechanics. Based on DFT calculations by Manish Kumar Kothakonda at Northeastern University""",
+	)

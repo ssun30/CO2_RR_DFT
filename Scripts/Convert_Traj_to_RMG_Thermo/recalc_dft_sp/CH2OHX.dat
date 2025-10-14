@@ -1,6 +1,0 @@
-name = CH2OHX
-heat_of_formation_0K = [-108.42609198092369, 'kJ/mol']
-composition = {'H': 3, 'C': 1, 'N': 0, 'O': 1, 'Ag': 1}
-sites = 1
-adsorbate_mass = [31.033520000000003, 'amu']
-frequencies = [np.float64(12.0), np.float64(50.32), np.float64(128.4), np.float64(133.21), np.float64(165.3), np.float64(387.83), np.float64(578.45), np.float64(925.75), np.float64(1084.16), np.float64(1170.5), np.float64(1223.88), np.float64(1442.26), np.float64(2949.6), np.float64(3009.37), np.float64(3634.08), 'cm-1']

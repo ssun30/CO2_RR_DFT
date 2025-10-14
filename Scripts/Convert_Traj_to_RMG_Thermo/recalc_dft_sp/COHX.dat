@@ -1,6 +1,0 @@
-name = COHX
-heat_of_formation_0K = [75.87457390811709, 'kJ/mol']
-composition = {'H': 1, 'C': 1, 'N': 0, 'O': 1, 'Ag': 1}
-sites = 1
-adsorbate_mass = [29.01784, 'amu']
-frequencies = [np.float64(12.0), np.float64(116.55), np.float64(163.81), np.float64(200.28), np.float64(257.86), np.float64(392.26), np.float64(1069.2), np.float64(1214.01), np.float64(3489.55), 'cm-1']
